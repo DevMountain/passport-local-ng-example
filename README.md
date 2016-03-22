@@ -13,3 +13,7 @@ This is a really simple example of how to use Express, Passport (local), Mongo (
   * [passport-local-mongoose](https://github.com/saintedlama/passport-local-mongoose), could make your life easier
   * You'd want to make sure you check if a user exists before trying to create another (your /auth/register endpoint would need to be more complete).
   * [Tutorial](http://code.tutsplus.com/tutorials/authenticating-nodejs-applications-with-passport--cms-21619)
+
+## Copyright
+
+© DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
